@@ -13,17 +13,23 @@ export const Carousel = () => {
                 <div className="carousel-inner">
                     <div className="carousel-item active">
                         <div className="row d-flex justify-content-center align-center">
-                            <ReturnBook />
+                            <ReturnBook/>
+                            <ReturnBook/>
+                            <ReturnBook/>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <div className="row d-flex justify-content-center align-center">
                             <ReturnBook />
+                            <ReturnBook/>
+                            <ReturnBook/>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <div className="row d-flex justify-content-center align-center">
                             <ReturnBook />
+                            <ReturnBook/>
+                            <ReturnBook/>
                         </div>
                     </div>
                 </div>
